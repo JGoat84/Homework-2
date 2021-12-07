@@ -1,0 +1,36 @@
+
+img {
+  max-width: 100%;
+  max-height: 100%;}
+
+#gallery
+{
+  display: inline-flex;
+flex-direction: row; 
+flex-wrap: nowrap;
+position: relative;
+background-color: rgba(214, 211, 211, 0.452);
+border-radius: 5px;
+padding: 5px 5px 5px 5px;
+/* margin: 5px */
+}
+
+.pics
+{
+Width: 30vw; 
+height: auto;
+
+padding: 10px 10px 10px 10px;
+border: solid, 50px, black;
+border-radius: 25px;
+}
+
+/* #pic1 {
+  float: right;
+}
+#pic2 {
+  position: center; 
+}
+#pic3 {
+  float: right;
+} */
